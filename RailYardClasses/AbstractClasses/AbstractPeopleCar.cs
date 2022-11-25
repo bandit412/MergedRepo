@@ -6,7 +6,7 @@
 
         //public properties
 
-        //consgtructor(s)
+        //constructor(s)
 
         //class method(s)
     }
